@@ -25,7 +25,7 @@ I prefer to prioritize core execution logic and foundational mechanics over simp
 ## 📁 Scraped Dataset Preview
 Below is the live result generated directly by the scraper, perfectly mapped into structural columns:
 
-![Scraped Data Preview](scraped_screenshot.png)
+![Scraped Data Preview](Capture d’écran 2026-06-12 210540.png)
 
 ---
 
